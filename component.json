@@ -1,0 +1,7 @@
+{
+  "author": "adrai",
+  "name": "enum",
+  "version": "0.2.7",
+  "main": "enum-0.2.7.js",
+  "scripts": [ "enum-0.2.7.js" ]
+}
